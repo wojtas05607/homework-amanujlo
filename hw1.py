@@ -28,6 +28,7 @@ def poland_cases_by_date(day: int, month: int, year: int = 2020) -> int:
     :return: Number of cases on a given date as an integer
     """
     
+    
     # Your code goes here (remove pass)
     pass
 
